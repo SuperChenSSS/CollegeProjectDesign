@@ -1,7 +1,7 @@
 ## College Project Design
 ### Shortest Path
 
-This project was designed by Qt Framework, and was constructed by [@HelloZhy](https://github.com/HelloZhy) and @[CMY](https://github.com/SuperChenSSS).
+This project was designed by Qt Framework, and was constructed by [@HelloZhy](https://github.com/HelloZhy) and [@CMY](https://github.com/SuperChenSSS).
 
 We use improved heap-ordered Dijkstra algorithm to structure data.
 
